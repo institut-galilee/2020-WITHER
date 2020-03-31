@@ -1,5 +1,5 @@
-//On lit la valeur du thermistor sur AO
-int ThermistorPin = A0;
+//On lit la valeur du thermistor sur GPIO9
+int ThermistorPin = 9;//GPIO9
 //valeur du thermistor
 int Vo;
 //valeur de la resistance utilise 10K
