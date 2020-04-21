@@ -48,6 +48,7 @@ void setup() {
   // Print local IP address and start web server
   Serial.println("");
   Serial.println("WiFi connected.");
+  //Use this adress to get connected
   Serial.println("IP address: ");
   Serial.println(WiFi.localIP());
   server.begin();
