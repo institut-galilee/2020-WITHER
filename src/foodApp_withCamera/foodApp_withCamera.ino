@@ -22,9 +22,6 @@ const int D5 = 13;
 const int D6 = 26;
 const int D7 = 4;
 
-const int TFT_DC = 2;
-const int TFT_CS = 5;
-
 #define ssid        "wifi name"
 #define password    "wifi password"
 
