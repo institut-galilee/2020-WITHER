@@ -29,6 +29,7 @@ void loop() {
 
 void OneStep(bool dir){
     if(dir){
+      //one step in a direction
 switch(step_number){
   case 0:
   digitalWrite(STEPPER_PIN_1, HIGH);
@@ -56,6 +57,7 @@ switch(step_number){
   break;
 } 
   }else{
+      //step in opposite direction
     switch(step_number){
   case 0:
   digitalWrite(STEPPER_PIN_1, LOW);
