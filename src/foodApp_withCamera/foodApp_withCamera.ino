@@ -77,6 +77,7 @@ void setup()
   Serial.println("");
   Serial.println("WiFi connected.");
   Serial.println("IP address: ");
+  //Use this adress to get connected
   Serial.println(WiFi.localIP());
   
   camera = new OV7670(OV7670::Mode::QQVGA_RGB565, SIOD, SIOC, VSYNC, HREF, XCLK, PCLK, D0, D1, D2, D3, D4, D5, D6, D7);
