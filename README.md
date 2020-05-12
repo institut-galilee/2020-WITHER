@@ -8,8 +8,8 @@
 
 ## Description de notre projet 
 
-Selon une enquête de la FACCO, 49.9 % des foyers français possèdent au moins un animal de compagnie, soit presque un sur deux.
-On sait aujourd'hui, qu’il y a 100 000 abandons d’animaux domestiques en France par an, dont 60 000 durant l’été.
+Selon une enquête de la FACCO, **49.9 %** des foyers français possèdent au moins un animal de compagnie, soit presque un sur deux.
+On sait aujourd'hui, qu’il y a **100 000 abandons d’animaux domestiques** en France par an, dont **60 000** durant l’été.
 C’est dans ce contexte que nous est venu l’idée d’une cage connectée qui sera moins coûteuse qu’un “petsitter” pour les particuliers.
 D’autre part, cette cage pourra aussi être intéressante pour décharger les plus gros organismes tels que l’ASPA, des tâches quotidiennes redondantes comme le nourrissage des animaux et le contrôle de leur état.
 
@@ -29,7 +29,7 @@ En France, l’argent utilisé pour acheter des accessoires représente 560 mill
 
 ## Objectif du projet 
 
-Ce projet possède trois fonctionnalités principales :
+Ce projet possède **3 fonctionnalités principales** :
 
 - La distribution automatique de nourriture à un moment et une quantité préalablement sélectionnée
 - La détection d’une température inadaptée à l’animal
