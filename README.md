@@ -42,6 +42,6 @@ Pour réaliser ce projet, nous avons eu recours à plusieurs matériaux.
 ## Rapport Projet 
 
 Pour voir le rapport du projet ainsi que tous les détails en lien avec le développement de notre objet connecté : 
-**[cliquez-ici](https://github.com/institut-galilee/2020-WITHER)**  
+**[cliquez-ici](https://github.com/institut-galilee/2020-WITHER/blob/master/doc/report.pdf)**  
 
 
