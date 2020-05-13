@@ -1,6 +1,7 @@
 # Fiche personnelle d'activité de Mathieu JUGI
----
+
 ### Résumé d'activité
+---
 Durant ce projet, j'ai pû effectuer différentes tâches.
 
 Nous avons réalisé ensemble l'état de l'art du projet.
@@ -15,6 +16,7 @@ A la fin du projet, puisque l'on était en confinement, j'ai dû tourner la vid�
 
 
 ### Acquis
+---
 Ce projet fût très spécial, dû à la pandémie qui a eu lieu au même moment. Il a fallut trouver de nouvelles manières de travailler ensemble, mais surtout sans se rencontrer. Grâce à cela, j'ai acquis une nouvelle façon de travailler en équipe, ce projet n'a ressembler à aucune de mes précédentes expériences.
 
 C'est la première fois que j'ai travaillé sur un objet concret, je parle de la maquette. Car en effet, dans tous les projets que je réalise, le travail se passe exclusivement sur des logiciels. Sortir de cette habitude a été fort plaisant.
