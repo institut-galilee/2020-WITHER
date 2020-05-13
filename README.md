@@ -3,7 +3,7 @@
 ## Membre 
 
 - JUGI Mathieu (<mathieujugi@gmail.com>)
-- JAVAID Haseeb (<javaidhaseeb@gmail.com>)
+- JAVAID Haseeb (<javaidhaseeb@hotmail.com>)
 - ZHOU Clement (<clementzhou.cz@gmail.com>)
 
 ## Description de notre projet 
